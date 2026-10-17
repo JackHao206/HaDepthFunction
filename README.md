@@ -1,0 +1,2 @@
+# HaDepthFunction
+检测件纵深太大相机无法完全聚焦，基于Halcon的depth_from_focus算子实现不同焦距的景深融合，可链接相机SDK也可读取本地
